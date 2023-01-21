@@ -5,6 +5,4 @@ second
 third
 s
 from hello
-ranger
---new line
-trailhead account
+
