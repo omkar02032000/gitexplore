@@ -1,10 +1,12 @@
 apple added
 Addings
-Firs
+First 
 second
 third
 s
-from hello
+from hello world 
 ranger
 --new line
-trailhead account
+
+
+trailhead account added
